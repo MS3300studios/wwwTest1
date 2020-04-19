@@ -1,0 +1,75 @@
+body{
+    background: grey;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG/1280px-Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG);
+}
+main{
+    margin: 0 auto;
+    width: 1200px;
+}
+header{
+    height: 100px;
+    background: rgb(66, 187, 66);
+    margin: 0 0;
+}
+footer{
+    background: rgb(86, 126, 60);
+    height: 100px;
+}
+section{
+    display: flex;
+}
+article{
+    width: 800px;
+    height: 500px;
+    background: rgb(58, 116, 192);
+}
+aside{
+    width: 200px;
+    height: 500px;
+    background: lightseagreen;
+}
+#right-panel{
+    width: 200px;
+    height: 500px;
+    background: lightskyblue;
+}
+nav{
+    width: 387px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+}
+table{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 21px;
+}
+a{    
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: blanchedalmond;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 21px;      
+}
+
+#header-table{
+    border-style: dotted;
+}
+
+#weather{
+    margin-left: 40px;
+    margin-top: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
+#footer-txt{
+    margin: 474px;
+    margin-top: 100px;
+    padding-top: 100px;
+}
+#article{
+    margin: 0 auto;
+}
