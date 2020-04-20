@@ -1,0 +1,38 @@
+article{
+    margin: 0 auto;
+    display: block;
+    width: auto;
+    height: 700px;
+}
+a {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    
+}
+header{
+    background-color: rgb(143, 91, 192);
+    width: auto;
+    height: 100px;
+}
+body{
+    background-color: rgb(49, 92, 172);
+}
+main{
+    background-color:cornflowerblue ;
+}
+#abouttxt{
+margin: 20px 20px;
+display: block;
+}
+h1{
+    margin: 15px 20px;
+}
