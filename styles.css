@@ -67,9 +67,12 @@ a{
 }
 #footer-txt{
     margin: 474px;
-    margin-top: 100px;
-    padding-top: 100px;
+    margin-top: 0px;
+    padding-top: 73px;
+    display: block;
 }
 #article{
     margin: 0 auto;
+    padding: 0 40px;
+    display: block;
 }
